@@ -49,7 +49,7 @@ Invited talk on the evening of Sept. 16, 2019.
 
 23. **Coreference Resolution:** Incorporating Structural Information for Better Coreference Resolution https://www.ijcai.org/proceedings/2019/700
 
-24. **Entity-Linking, Topic Units:** Knowledge Base Question Answering with Topic Units https: //www.ijcai.org/proceedings/2019/701
+24. **Entity-Linking, Topic Units:** Knowledge Base Question Answering with Topic Units https://www.ijcai.org/proceedings/2019/701
 
 25. **Named Entity Boundary Detection:** Adversarial Transfer for Named Entity Boundary Detection with Pointer Networks https://www.ijcai.org/proceedings/2019/702
 

@@ -163,7 +163,7 @@ Invited talk on the evening of Sept. 16, 2019.
 
 79. **Text Classification:** Dynamically Route Hierarchical Structure Representation to Attentive Capsule for Text Classification https://www.ijcai.org/proceedings/2019/759
 
-80. **Sequ**ence Generation:**** Sequence Generation: From Both Sides to the Middle https://www.ijcai.org/proceedings/2019/760
+80. **Sequence Generation:** Sequence Generation: From Both Sides to the Middle https://www.ijcai.org/proceedings/2019/760
 
 81. **Word Embedding:** Getting in Shape: Word Embedding SubSpaces https://www.ijcai.org/proceedings/2019/761
 
